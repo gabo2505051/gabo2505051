@@ -1,26 +1,52 @@
-# ¡Hola! Soy Gabo 👋
+# Hi there! I'm Gabriel Castro 👋
+**Industrial Automation & Electricity Engineer | IIoT & Data Specialist**
 
-> "La automatización no es solo programar, es conectar el mundo físico con el digital." 
+Bridging the gap between **Operational Technology (OT - PLC/TIA Portal)** and **Information Technology (IT - Python/Data)** to optimize industrial reliability and asset management.
 
-## Sobre mí
-Disfruto resolviendo problemas reales a través de la ingeniería de automatización y el desarrollo de software estructurado. Actualmente estoy enfocado en el desarrollo de soluciones **IIoT**, convergencia **OT/IT** y la optimización de procesos industriales mediante código.
+---
 
-## Cómo construyo mis soluciones
-*   Analizar las variables y el entorno físico del problema.
-*   Diseñar arquitecturas de datos escalables y robustas.
-*   Conectar hardware industrial con entornos de software modernos.
-*   Documentar y mejorar continuamente los procesos automatizados.
+## 🚀 About Me
+I specialize in designing and implementing structured engineering solutions that transform raw factory-floor data into actionable insights for high-level decision-making. I combine the rigorous standards of electrical engineering with modern software development methodologies.
 
-## Tecnologías y Herramientas
-Aquí puedes usar imágenes o badges de servicios como Shields.io para que se vea más visual:
+- 🌍 Driven to deploy global scalability and robust IIoT architectures.
+- 🐍 Certified in Python development, focused on simulation and data pipelines.
+- ⚙️ Hands-on experience in industrial manufacturing environments and asset tracking under SAP PM.
 
-| Control & IoT | Programación & Datos | Herramientas |
+---
+
+## 🛠️ Skills & Technologies
+
+| Automation & OT | Software & Data | DevOps & Tools |
 | :--- | :--- | :--- |
-| 🛠️ PLCs (Siemens, etc.) | 🐍 Python (Pandas/Scripts) | 📊 Node-RED |
-| 📡 Protocolos Industriales | 🗄️ SQL / Bases de datos | 🚀 Git & GitHub |
+| <img src="https://img.shields.io/badge/PLC_Siemens-0064B0?style=flat&logo=siemens&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=node-red&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TIA_Portal-0094B4?style=flat" /> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Industrial_Protocols-Gray?style=flat" /> | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> |
 
-## Proyectos Destacados
-### 🤖 [Nombre de tu proyecto estrella]
-Descripción corta del software de simulación, reporte o gemelo digital que hayas construido.
-*   **Stack:** Python, Pandas, MQTT.
-*   [Link al repositorio]
+---
+
+## 📊 Featured Projects
+
+### 📡 [cookie_line_twin](https://github.com/gabo2505051/cookie_line_twin)
+**IIoT Production Line Digital Twin Simulator**
+*   **Description:** A mathematical model built in Python that simulates physical machine behavior, stochastic failures, downtime sequences, and real-time OEE calculations across a 5-machine assembly line. Engineered for data connectivity benchmarking without relying on physical hardware.
+*   **Tech Stack:** Python, Logic Simulation.
+
+### ⚙️ [MantOS](https://github.com/gabo2505051/MantOS)
+**Industrial Maintenance Management & Reliability System**
+*   **Description:** A specialized tool designed to streamline maintenance operations, track asset reliability metrics, and organize equipment data for industrial facilities. It centralizes asset documentation and key KPIs to minimize unexpected operational downtime.
+*   **Tech Stack:** Python, Data Management.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabo2505051&show_icons=true&theme=tokyonight&count_private=true" alt="Gabo's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo2505051&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="180px" />
+</p>
+
+---
+
+## 📬 Let's Connect
+- 💼 **LinkedIn:** [in/gabriel-castro-9017b01a6](https://linkedin.com/in/gabriel-castro-9017b01a6)
+- 📧 **Email:** gabo250501@gmail.com
