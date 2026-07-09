@@ -27,12 +27,12 @@ I specialize in designing and implementing structured engineering solutions that
 
 ## 📊 Featured Projects
 
-### 📡 [cookie_line_twin] (https://github.com/gabo2505051/cookie_line_twin)
+### 📡 [cookie_line_twin](https://github.com/gabo2505051/cookie_line_twin)
 **IIoT Production Line Digital Twin Simulator**
 *   **Description:** A mathematical model built in Python that simulates physical machine behavior, stochastic failures, downtime sequences, and real-time OEE calculations across a 5-machine assembly line. Engineered for data connectivity benchmarking without relying on physical hardware.
 *   **Tech Stack:** Python, Logic Simulation.
 
-### ⚙️ [MantOS](Maintenance Operation System) (https://github.com/gabo2505051/MantOS)
+### ⚙️ [MantOS](Maintenance Operation System)](https://github.com/gabo2505051/MantOS)
 **Industrial Maintenance Management & Reliability System**
 *   **Description:** A specialized tool designed to streamline maintenance operations, track asset reliability metrics, and organize equipment data for industrial facilities. It centralizes asset documentation and key KPIs to minimize unexpected operational downtime.
 *   **Tech Stack:** Python, Data Management.
